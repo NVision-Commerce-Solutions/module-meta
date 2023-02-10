@@ -19,7 +19,7 @@
         "commerce365/module-apiextensions": "*"
     },
     "type": "metapackage",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "repositories": {
         "magento": {
             "type": "composer",
