@@ -3,6 +3,8 @@
     "version": "1.0.0",
     "description": "N/A",
     "require": {
+        "php": ">=7.3.0",
+        "magento/framework": ">=102.0.0",
         "commerce365/module-core": "*",
         "commerce365/module-customer-price": "*",
         "commerce365/module-invoices": "*",
@@ -17,5 +19,40 @@
     },
     "license": [
         ""
-    ]
+    ],
+    "minimum-stability": "dev",
+    "repositories": {
+        "magento": {
+            "type": "composer",
+            "url": "https://repo.magento.com/"
+        },
+        "commerce365/module-customer-price": {
+            "type": "git",
+            "url": "git@github.com:NVision-Commerce-Solutions/module-customer-price.git"
+        },
+        "commerce365/module-invoices": {
+            "type": "git",
+            "url": "git@github.com:NVision-Commerce-Solutions/module-invoices.git"
+        },
+        "commerce365/module-orders": {
+            "type": "git",
+            "url": "git@github.com:NVision-Commerce-Solutions/module-orders.git"
+        },
+        "commerce365/module-creditmemos": {
+            "type": "git",
+            "url": "git@github.com:NVision-Commerce-Solutions/module-creditmemos.git"
+        },
+        "commerce365/module-shipments": {
+            "type": "git",
+            "url": "git@github.com:NVision-Commerce-Solutions/module-shipments.git"
+        },
+        "commerce365/module-quotes": {
+            "type": "git",
+            "url": "git@github.com:NVision-Commerce-Solutions/module-quotes.git"
+        },
+        "commerce365/module-apiextensions": {
+            "type": "git",
+            "url": "git@github.com:NVision-Commerce-Solutions/module-apiextensions.git"
+        }
+    }
 }
