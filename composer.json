@@ -24,6 +24,10 @@
             "type": "composer",
             "url": "https://repo.magento.com/"
         },
+        "commerce365/module-core": {
+            "type": "git",
+            "url": "git@github.com:NVision-Commerce-Solutions/module-core.git"
+        },
         "commerce365/module-customer-price": {
             "type": "git",
             "url": "git@github.com:NVision-Commerce-Solutions/module-customer-price.git"
