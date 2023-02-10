@@ -20,7 +20,8 @@
     "license": [
         ""
     ],
-    "minimum-stability": "dev",
+    "type": "metapackage",
+    "minimum-stability": "stable",
     "repositories": {
         "magento": {
             "type": "composer",
