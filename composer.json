@@ -4,11 +4,7 @@
     "description": "N/A",
     "require": {
         "php": ">=7.3.0",
-        "magento/framework": ">=102.0.0"
-
-    },
-    "require-dev": {
-        "roave/security-advisories": "dev-latest",
+        "magento/framework": ">=102.0.0",
         "commerce365/module-core": "1.0.0",
         "commerce365/module-customer-price": "*",
         "commerce365/module-invoices": "*",
@@ -17,6 +13,9 @@
         "commerce365/module-shipments": "*",
         "commerce365/module-quotes": "*",
         "commerce365/module-apiextensions": "*"
+    },
+    "require-dev": {
+        "roave/security-advisories": "dev-latest"
     },
     "type": "metapackage",
     "minimum-stability": "dev",
