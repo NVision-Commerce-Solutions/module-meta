@@ -9,7 +9,7 @@
     },
     "require-dev": {
         "roave/security-advisories": "dev-latest",
-        "commerce365/module-core": "dev-main",
+        "commerce365/module-core": "1.0.0",
         "commerce365/module-customer-price": "*",
         "commerce365/module-invoices": "*",
         "commerce365/module-orders": "*",
