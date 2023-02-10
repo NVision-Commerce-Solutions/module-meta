@@ -5,14 +5,14 @@
     "require": {
         "php": ">=7.3.0",
         "magento/framework": ">=102.0.0",
-        "commerce365/module-core": "1.0.0",
-        "commerce365/module-customer-price": "*",
-        "commerce365/module-invoices": "*",
-        "commerce365/module-orders": "*",
-        "commerce365/module-creditmemos": "*",
-        "commerce365/module-shipments": "*",
-        "commerce365/module-quotes": "*",
-        "commerce365/module-apiextensions": "*"
+        "commerce365/module-core": "^1.0",
+        "commerce365/module-customer-price": "^1.0",
+        "commerce365/module-invoices": "^1.0",
+        "commerce365/module-orders": "^1.0",
+        "commerce365/module-creditmemos": "^1.0",
+        "commerce365/module-shipments": "^1.0",
+        "commerce365/module-quotes": "^1.0",
+        "commerce365/module-apiextensions": "^1.0"
     },
     "require-dev": {
         "roave/security-advisories": "dev-latest"
