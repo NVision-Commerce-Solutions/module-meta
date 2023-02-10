@@ -1,0 +1,21 @@
+{
+    "name": "nvision/commerce365",
+    "version": "1.0.0",
+    "description": "N/A",
+    "require": {
+        "commerce365/module-core": "*",
+        "commerce365/module-customer-price": "*",
+        "commerce365/module-invoices": "*",
+        "commerce365/module-orders": "*",
+        "commerce365/module-creditmemos": "*",
+        "commerce365/module-shipments": "*",
+        "commerce365/module-quotes": "*",
+        "commerce365/module-apiextensions": "*"
+    },
+    "require-dev": {
+        "roave/security-advisories": "dev-latest"
+    },
+    "license": [
+        ""
+    ]
+}
