@@ -18,43 +18,5 @@
         "roave/security-advisories": "dev-latest"
     },
     "type": "metapackage",
-    "minimum-stability": "dev",
-    "repositories": {
-        "magento": {
-            "type": "composer",
-            "url": "https://repo.magento.com/"
-        },
-        "commerce365/module-core": {
-            "type": "git",
-            "url": "git@github.com:NVision-Commerce-Solutions/module-core.git"
-        },
-        "commerce365/module-customer-price": {
-            "type": "git",
-            "url": "git@github.com:NVision-Commerce-Solutions/module-customer-price.git"
-        },
-        "commerce365/module-invoices": {
-            "type": "git",
-            "url": "git@github.com:NVision-Commerce-Solutions/module-invoices.git"
-        },
-        "commerce365/module-orders": {
-            "type": "git",
-            "url": "git@github.com:NVision-Commerce-Solutions/module-orders.git"
-        },
-        "commerce365/module-creditmemos": {
-            "type": "git",
-            "url": "git@github.com:NVision-Commerce-Solutions/module-creditmemos.git"
-        },
-        "commerce365/module-shipments": {
-            "type": "git",
-            "url": "git@github.com:NVision-Commerce-Solutions/module-shipments.git"
-        },
-        "commerce365/module-quotes": {
-            "type": "git",
-            "url": "git@github.com:NVision-Commerce-Solutions/module-quotes.git"
-        },
-        "commerce365/module-apiextensions": {
-            "type": "git",
-            "url": "git@github.com:NVision-Commerce-Solutions/module-apiextensions.git"
-        }
-    }
+    "minimum-stability": "dev"
 }
