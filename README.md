@@ -1,7 +1,7 @@
 # module-meta
 Commerce 365 for Magento - Magento 2 Extension - Meta Data Module
 
-In order to install the package please run next commands
+In order to install the package please run the following commands
 ```
 composer config repositories.nvision/commerce365 git git@github.com:NVision-Commerce-Solutions/module-meta.git
 composer config repositories.commerce365/module-core git git@github.com:NVision-Commerce-Solutions/module-core.git
