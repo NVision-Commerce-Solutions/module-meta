@@ -2,6 +2,9 @@
     "name": "nvision/commerce365",
     "version": "1.0.0",
     "description": "N/A",
+    "license": [
+        "OSL-3.0"
+    ],    
     "require": {
         "php": ">=7.3.0",
         "magento/framework": ">=102.0.0",
