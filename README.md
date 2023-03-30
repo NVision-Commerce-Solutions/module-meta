@@ -15,3 +15,6 @@ composer config repositories.commerce365/module-apiextensions git git@github.com
 
 composer require nvision/commerce365
 ```
+
+For more information about Commerce 365 for Magento see:
+https://n.vision/products/commerce-365-for-magento/
